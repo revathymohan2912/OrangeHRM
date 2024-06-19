@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T18:57:31 IST" name="Suite" finished-at="2024-06-18T18:58:00 IST" duration-ms="29408">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T18:57:31 IST" name="Test" finished-at="2024-06-18T18:58:00 IST" duration-ms="29408">
+      <class name="OrangeHRM.TestCases">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:31 IST" name="initialization" finished-at="2024-06-18T18:57:39 IST" duration-ms="7965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="adminTabOptionVerification()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:39 IST" name="adminTabOptionVerification" finished-at="2024-06-18T18:57:41 IST" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTabOptionVerification -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:41 IST" name="initialization" finished-at="2024-06-18T18:57:49 IST" duration-ms="7435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="claimTabVerification()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:49 IST" name="claimTabVerification" finished-at="2024-06-18T18:57:51 IST" duration-ms="2192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- claimTabVerification -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:51 IST" name="initialization" finished-at="2024-06-18T18:57:58 IST" duration-ms="7318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="recruitmentTabVerification()[pri:0, instance:OrangeHRM.TestCases@42a48628]" started-at="2024-06-18T18:57:58 IST" name="recruitmentTabVerification" finished-at="2024-06-18T18:58:00 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recruitmentTabVerification -->
+      </class> <!-- OrangeHRM.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
